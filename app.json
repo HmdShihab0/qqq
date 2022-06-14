@@ -1,16 +1,16 @@
 {
-    "name": "اهلا بك في سورس ايــثــون ميوزك",
-    "description": "البوت الافضل والاسرع بدون توقف مقدم من سورس ايــثــون ومجانا",
-    "logo": "https://telegra.ph/file/4763d6135a6dec50390b7.jpg",
+    "name": "اهلا بك في سورس h ميوزك",
+    "description": "البوت الافضل والاسرع بدون توقف مقدم من سورس hميوزك ومجانا",
+    "logo": "https://telegra.ph/file/d8deedf3cb61886f03a02.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/EITHON1",
-    "repository": "https://github.com/byffyyffu/EITHONST",
-    "success_url": "https://t.me/EITHON1",
+    "website": "https://t.me/hMusic0",
+    "repository": "https://github.com/hmd001/qqq",
+    "success_url": "https://t.me/v600g",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",

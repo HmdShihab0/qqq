@@ -1,6 +1,6 @@
 {
-    "name": "اهلا بك في سورس h ميوزك",
-    "description": "البوت الافضل والاسرع بدون توقف مقدم من سورس hميوزك ومجانا",
+    "name": "welcome to ᯓ˹ 𝙷𝙼𝙳 𝙼𝚄𝚂𝙸𝙲",
+    "description": "البوت الافضل والاسرع بدون توقف مقدم من سورس ᯓ˹ 𝙷𝙼𝙳 𝙼𝚄𝚂𝙸𝙲 ومجانا",
     "logo": "https://telegra.ph/file/d8deedf3cb61886f03a02.jpg",
     "keywords": [
         "pytgcalls",
@@ -47,22 +47,22 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": true,
-            "value": "eithonsupport"
+            "value": "yvviy"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": true,
-            "value": "EITHON1"
+            "value": "hMusic0"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": true,
-            "value": "TTTLL0"
+            "value": "mr54c"
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": true,
-            "value": "Ξ𝗜𝗧𝗛𝗢𝗡™"
+            "value": "ᯓ˹ 𝙷𝙼𝙳 𝙼𝚄𝚂𝙸𝙲"
         }
     },
     "addons": [],
